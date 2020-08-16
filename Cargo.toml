@@ -16,7 +16,9 @@ description = "Vuetify components for Yew Framework"
 mixin = "0.2.0"
 strum = { version = "0.18.0", features = ["derive"] }
 yew = "0.17"
+grass = "0.10"
 
 [build-dependencies]
 anyhow = "1.0.28"
 sass-rs = { git = "ssh://git@github.com/compass-rs/sass-rs" }
+grass = "0.10"
